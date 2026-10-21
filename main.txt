@@ -1,0 +1,1 @@
+Stable release: BranchPilot v1.0
